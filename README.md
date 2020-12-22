@@ -1,3 +1,5 @@
+[![Sponsor me][sponsor_badge]][sponsor_me]
+
 # flutter_counter_challenge_2020
 
 A set of counter apps made for #FlutterCounterChallenge2020.
@@ -65,4 +67,8 @@ Original idea from https://twitter.com/beesandbombs/status/1329468633723101187?s
 ## Wave
 
 ![Blocks](images/wave.gif)
+
+<!-- Links -->
+[sponsor_badge]: https://img.shields.io/badge/Sponsor-♥-green.svg
+[sponsor_me]: https://github.com/letsar#reach-me
 

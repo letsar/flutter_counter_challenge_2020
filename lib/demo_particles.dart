@@ -135,9 +135,7 @@ class _ParticleImageSwitcherState extends State<ParticleImageSwitcher>
     for (var i = 0; i < widget.imagePaths.length; i++) {
       allPixels.add(loadPixels(widget.imagePaths[i]));
     }
-    Future<void>.delayed(const Duration(seconds: 3)).then(
-      (_) => showParticles(0),
-    );
+    showParticles(0);
   }
 
   @override
